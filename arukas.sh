@@ -1,11 +1,11 @@
 #!/bin/sh
 
 #######################
-#					  #
-#	Arukas Api Tool	  #
-#					  #
-#	   Jim Lee		  #
-#    				  #
+#                     #
+#   Arukas Api Tool   #
+#                     #
+#   Jim Lee  2017.1   #
+#                     #
 #######################
 
 # Authorization
